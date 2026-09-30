@@ -1,0 +1,6 @@
+{
+  "name": "BartaBlue - Secure Encrypted Messenger & Calling",
+  "description": "An online-based messaging and voice/video calling platform featuring end-to-end encryption, group chats, voice messaging, seamless media sharing, cross-platform sync, and multi-language support.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
